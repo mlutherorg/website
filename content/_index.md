@@ -1,4 +1,7 @@
 +++
-featured_image = "/images/Scriptures.jpg"
 description = ""
+featured_image = "/images/Scriptures.jpg"
+title = ""
+type = "page"
+
 +++
