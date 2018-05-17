@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Mluther"
-theme = "mluther"
+theme = "Mluther"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
